@@ -22,6 +22,7 @@ I also have a Raspberry Pi 4 which I barely ever use.
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Linux-Dark.svg" title="Linux" alt="Linux-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim-Dark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg" title="c" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -29,14 +30,13 @@ I also have a Raspberry Pi 4 which I barely ever use.
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bash-Dark.svg" title="Bash" alt="Bash-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Lua-Dark.svg" title="Lua" alt="Lua-dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/DiscordBots.svg" title="DiscordBots" alt="" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express" alt="ExpressJS-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VueJS-Dark.svg" title="Vie" alt="VueJS-Dark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VueJS-Dark.svg" title="Vue" alt="VueJS-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Dark.svg" title="Vite" alt="Vite-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/QT-Dark.svg" title="QT" alt="QT-Dark" width="40" height="40">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
@@ -45,6 +45,7 @@ I also have a Raspberry Pi 4 which I barely ever use.
 
 <span>&#8203;</span>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pickzelle&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api?username=Pickzelle&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&card_width=600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pickzelle&langs_count=10&hide=Procfile&theme=gruvbox&layout=compact&hide_border=true&card_width=600">
 
 </div>
