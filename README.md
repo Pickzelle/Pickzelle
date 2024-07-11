@@ -33,7 +33,7 @@ I also have a Raspberry Pi 4 which I barely ever use.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/DiscordBots.svg" title="DiscordBots" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DiscordJS-Dark.svg" title="DiscordJS" alt="DiscordJS-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express" alt="ExpressJS-Dark" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VueJS-Dark.svg" title="Vue" alt="VueJS-Dark" width="40" height="40"/>
@@ -42,10 +42,11 @@ I also have a Raspberry Pi 4 which I barely ever use.
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL-Dark" width="40" height="40"/>
 
-<span>&#8203;</span>  
+<span>&#8203;</span>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pickzelle&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pickzelle&langs_count=10&hide=Procfile&theme=gruvbox&hide_border=true&layout=compact&card_width=600">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Pickzelle&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&hide=stars" height="150" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pickzelle&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&layout=donut&langs_count=4" height="150" /> 
 
 </div>
