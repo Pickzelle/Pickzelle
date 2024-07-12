@@ -47,6 +47,6 @@ I also have a Raspberry Pi 4 which I barely ever use.
 <span>&#8203;</span>
 
 <img align="top" src="https://github-readme-stats-ten-kohl-19.vercel.app/api?username=Pickzelle&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&hide=stars" height="150" />
-<img align="top" src="https://github-readme-stats-ten-kohl-19.vercel.app/api/top-langs/?username=Pickzelle&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&layout=donut&langs_count=4" height="150" /> 
+<img align="top" src="https://github-readme-stats-ten-kohl-19.vercel.app/api/top-langs/?username=Pickzelle&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&layout=donut&langs_count=5" height="150" /> 
 
 </div>
