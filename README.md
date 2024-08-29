@@ -20,29 +20,29 @@ I also have a Raspberry Pi 4 which I barely ever use.
 
 <h3>Tools I love using</h3>
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Linux-Dark.svg" title="Linux" alt="Linux-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim-Dark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NeoVim-Dark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg" title="c" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg" title="C" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" title="Python" alt="Python-Dark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bash-Dark.svg" title="Bash" alt="Bash-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Lua-Dark.svg" title="Lua" alt="Lua-dark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Lua-Dark.svg" title="Lua" alt="Lua" width="40" height="40"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DiscordJS-Dark.svg" title="DiscordJS" alt="DiscordJS-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express" alt="ExpressJS-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VueJS-Dark.svg" title="Vue" alt="VueJS-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Dark.svg" title="Vite" alt="Vite-Dark" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/QT-Dark.svg" title="QT" alt="QT-Dark" width="40" height="40">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DiscordJS-Dark.svg" title="discord.js" alt="discord.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NodeJS-Dark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/ExpressJS-Dark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VueJS-Dark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/QT-Dark.svg" title="Qt" alt="Qt" width="40" height="40">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/SQLite.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL-Dark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 
 <span>&#8203;</span>
 
