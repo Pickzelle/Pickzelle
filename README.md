@@ -6,7 +6,6 @@
 <a href="https://www.reddit.com/user/P_i_x_3_L/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://discord.com/users/649531918374928395"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&"></a>
 <br/>
-<img src="https://visitcount.itsvg.in/api?id=Pickzelle&icon=6&color=0">
 
 ## Hello, I'm PixeL! 👋
 
